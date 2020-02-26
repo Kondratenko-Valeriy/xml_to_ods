@@ -1,0 +1,13 @@
+# JetBrains IDE config folder
+/.idea
+
+# Python envs
+/venv/*
+/env/*
+
+# Local folder
+/local
+
+# Input/output files
+/ods/*.ods
+/xml/*.xml

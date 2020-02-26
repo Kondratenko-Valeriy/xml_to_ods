@@ -1,0 +1,4 @@
+beautifulsoup4
+pyexcel_ods
+transliterate
+tqdm
