@@ -4,7 +4,7 @@ Designed for OS Windows, but not tested on it :)
  
 ## Requirements:
 1. Download ans install latest Python 3 version (3.7+):\
-    https://www.python.org/downloads/windows/\
+    https://www.python.org/downloads/windows  
     https://docs.python.org/3.8/using/windows.html
     
 2. Install Python packages:
