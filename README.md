@@ -1,8 +1,8 @@
-#Parsing XML and saving data to Open Document Spreadsheet file
+# Parsing XML and saving data to Open Document Spreadsheet file
 Script parses XML files from the directory 'xml' and save data to ODS files to the directory 'ods'. 
 Designed for OS Windows, but not tested on it :)
  
-##Requirements:
+## Requirements:
 1. Download ans install latest Python 3 version (3.7+):\
     https://www.python.org/downloads/windows/\
     https://docs.python.org/3.8/using/windows.html
